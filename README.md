@@ -215,6 +215,3 @@ jupyter notebook notebooks/titanic_eda.ipynb
 
 ---
 
-## Academic Disclaimer
-
-Predictions are statistical estimates based on historical passenger data patterns. They do not reflect the actual fate of any individual.
