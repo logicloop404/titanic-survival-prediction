@@ -1,6 +1,6 @@
 # Titanic Survival Prediction Using Machine Learning
 
-> **A Final-Year Computer Engineering Mini Project**
+> **ML mini project**
 
 ---
 
