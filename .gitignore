@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files (download from Kaggle manually)
+data/train.csv
+data/test.csv
+data/gender_submission.csv
+
+# Trained model artifacts
+models/*.pkl
+models/*.joblib
+
+# Output charts
+outputs/*.png
+outputs/*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
